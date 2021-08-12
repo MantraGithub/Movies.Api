@@ -17,7 +17,7 @@ namespace Movie.API.Controllers
         {
             Movies = new List<MovieEntity>
             {
-                new MovieEntity { Id = 1, Title = "Toy Story 1", Director = "John Lasseter" },
+                new MovieEntity { Id = 1, Title = "Toy Story 1", Director = "John  Lasseter" },
                 new MovieEntity { Id = 2, Title = "Toy Story 4", Director = "Josh Cooley" },
                 new MovieEntity { Id = 3, Title = "Arrival", Director = "Denis Villeneuve" },
                 new MovieEntity { Id = 4, Title = "Interstellar", Director = "Christopher Nolan" },
